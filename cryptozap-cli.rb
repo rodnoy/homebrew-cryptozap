@@ -7,7 +7,7 @@ class CryptozapCli < Formula
 
   def install
     bin.install "cryptozap-cli"
-    man1.install "cryptozap-cli.1.tar.gz" => "cryptozap-cli.1"
+    man1.install "cryptozap-cli.1.gz" => "cryptozap-cli.1"
     prefix.install "CryptoEngine_CryptoEngine.bundle"
   end
 
