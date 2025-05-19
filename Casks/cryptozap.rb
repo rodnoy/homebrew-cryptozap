@@ -1,6 +1,6 @@
 cask "cryptozap" do
   version "1.0.4"
-  sha256 "ff39b1ed79a1e38eb303fc7c246ebabee847c5ae38137ec0956345bb8c386573"
+  sha256 "e2b2610b0f204c44d279ea2d767c690e20a1d8751ffdb5de0ef491a7cb23ca11"
 
   url "https://github.com/rodnoy/CryptoZap/releases/download/v1.0.4/CryptoZap.1.0.4.dmg"
   name "CryptoZap"
