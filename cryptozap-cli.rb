@@ -1,8 +1,8 @@
 class CryptozapCli < Formula
   desc "Secure file encryption and decryption tool"
   homepage "https://github.com/rodnoy/CryptoZap"
-  url "https://github.com/rodnoy/CryptoZap/releases/download/v1.0.4/cryptozap-cli-app-v1.0.4.tar.gz"
-  sha256 "514c0e7ca83ff37971e0740f75efeca53100df96a91d5539e49bd16a3ad6fcba"
+  url "https://github.com/rodnoy/CryptoZap/releases/download/v1.0.4.1/cryptozap-cli-app-v1.0.4.tar.gz"
+  sha256 "739a7d899f7dbf40326195782a1cfc009fc128d021b094bebef48fa141851ebb"
   license "MIT"
 
   def install
